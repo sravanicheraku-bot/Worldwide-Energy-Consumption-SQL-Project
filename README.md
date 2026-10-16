@@ -1,1 +1,1 @@
-# Wildwind-Energy-Consumption-SQL-Project
+# Worldwind-Energy-Consumption-SQL-Project
